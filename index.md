@@ -6,7 +6,7 @@ Experimental results demonstrate the effectiveness and robustness of the propose
 <h3>Validation of the iterative DBSCAN feature point clustering.</h3>
 <a href="https://raw.githubusercontent.com/ustcwangjian/Robust-Video-Stabilization-based-on-Motion-Decomposition/gh-pages/clustering.mp4">clustering.mp4</a>
 
-<h3>Comparsion with previous video stabilization method</h3>
+<h3>Comparsion with previous video stabilization method.</h3>
 <a href="https://raw.githubusercontent.com/ustcwangjian/Robust-Video-Stabilization-based-on-Motion-Decomposition/gh-pages/comparison.mp4">comparison.mp4</a>
 
 <h1 align="center">Reference</h1>
