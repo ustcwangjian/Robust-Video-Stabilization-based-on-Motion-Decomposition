@@ -12,7 +12,7 @@
 <div align="justify">[1] L. Zhang, Q.-K. Xu, and H. Huang, “A global approach to fast video stabilization,” in IEEE Transactions on Circuits and Systems for Video Technology, vol. 27, no. 2, 2015, pp. 225–235.</div>
 <div align="justify">[2] S. Liu, L. Yuan, P. Tan, and J. Sun, “Bundled camera paths for video stabilization,” in ACM Trans. Graph., vol. 32, no. 4, Jul. 2013.</div> 
 <div align="justify">[3] T. Ma, Y. Nie, Q. Zhang, Z. Zhang, H. Sun, and G. Li, “Effective video stabilization via joint trajectory smoothing and frame warping,” in IEEE Transactions on Visualization and Computer Graphics, 2019.</div>       
-<div align="justify">[4] M. Zhao and Q. Ling, “Adaptively meshed video stabilization,” in IEEE Transactions on Circuits and Systems for Video Technology, 2020, pp. 1–1. </div>   
+<div align="justify">[4] M. Zhao and Q. Ling, “Adaptively meshed video stabilization,” in IEEE Transactions on Circuits and Systems for Video Technology, 2021, vol. 31 </div>   
 <div align="justify">[5] S. Liu, P. Tan, L. Yuan, J. Sun, and B. Zeng, “Meshflow: Minimum latency online video stabilization,” in European Conference on Computer Vision. Springer, 2016, pp. 800–815.</div>
 <div align="justify">[6] Y. J. Koh, C. Lee, and C. Kim, “Video stabilization based on feature trajectory augmentation and selection and robust mesh grid warping,” IEEE Transactions on Image Processing, vol. 24, no. 12, 2015, pp. 5260–5273.</div>
 <div align="justify">[7] M. Zhao and Q. Ling, “Pwstablenet: Learning pixel-wise warping maps for video stabilization,” in IEEE Transactions on Image Processing, vol. 29, pp. 3582–3595, 2020. </div> 
