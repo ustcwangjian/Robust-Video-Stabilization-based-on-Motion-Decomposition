@@ -9,7 +9,7 @@
 <a href="https://media.githubusercontent.com/media/ustcwangjian/Robust-Video-Stabilization-based-on-Motion-Decomposition/gh-pages/comparison.mp4">comparison.mp4</a>
 
 <h3>Validation in the multiple plane scenes.</h3>
-<a href="https://media.githubusercontent.com/media/ustcwangjian/Robust-Video-Stabilization-based-on-Motion-Decomposition/gh-pages/multiple_plane.mp4">multiple_plane.mp4</a>
+<a href="https://media.githubusercontent.com/media/ustcwangjian/Robust-Video-Stabilization-based-on-Motion-Decomposition/gh-pages/multiple plane.mp4">multiple_plane.mp4</a>
 
 <h1 align="center">Reference</h1>
 <div align="justify">[1] L. Zhang, Q.-K. Xu, and H. Huang, “A global approach to fast video stabilization,” in IEEE Transactions on Circuits and Systems for Video Technology, vol. 27, no. 2, 2015, pp. 225–235.</div>
