@@ -3,16 +3,16 @@
 <div align="justify"> Video stabilization aims to eliminate  camera jitter and improve the visual experience of shaky videos. Video stabilization methods often ignore the active movement of the foreground objects and the camera, and may result in distortion and over-smoothing problems. To resolve these issues, this paper proposes a novel video stabilization method based on motion decomposition. Since the inter-frame movement of foreground objects is different from that of background, we first separate foreground feature points from background feature points by modifying the classic density based spatial clustering method of applications with noise (DBSCAN). The movement of background feature points is consistent with the movement of the camera, which can be decomposed into the camera jitter and the active movement of the camera. And the movement of foreground feature points can be decomposed into the movement of the camera and the active movement of foreground objects. Based on motion decomposition, we design first-order and second-order trajectory smoothing constraints to eliminate the high-frequency and low-frequency components of the camera jitter. To reduce content distortion, shape-preserving constraints and regularization constraints are taken to generate stabilized views of all feature points. Experimental results demonstrate the effectiveness and robustness of the proposed video stabilization method on a variety of challenging videos.</div>
 
 <h3>Validation of the iterative DBSCAN feature point clustering.</h3>
-<a href="https://media.githubusercontent.com/media/ustcwangjian/Robust-Video-Stabilization-based-on-Motion-Decomposition/gh-pages/clustering.mp4">clustering.mp4</a>
+<a href="https://github.com/ustcwangjian/Robust-Video-Stabilization-based-on-Motion-Decomposition/raw/gh-pages/clustering.mp4">clustering.mp4</a>
 
 <h3>Comparsion with previous video stabilization methods.</h3>
-<a href="https://media.githubusercontent.com/media/ustcwangjian/Robust-Video-Stabilization-based-on-Motion-Decomposition/gh-pages/methods_comparison.mp4">method_comparison.mp4</a>
+<a href="https://github.com/ustcwangjian/Robust-Video-Stabilization-based-on-Motion-Decomposition/raw/gh-pages/methods_comparison.mp4">method_comparison.mp4</a>
 
 <h3>Comparsion with feedback method.</h3>
-<a href="https://media.githubusercontent.com/media/ustcwangjian/Robust-Video-Stabilization-based-on-Motion-Decomposition/gh-pages/feedback_comparison.mp4">feedback_comparison.mp4</a>
+<a href="https://github.com/ustcwangjian/Robust-Video-Stabilization-based-on-Motion-Decomposition/raw/gh-pages/feedback_comparison.mp4">feedback_comparison.mp4</a>
 
 <h3>Validation in the multiple plane scenes.</h3>
-<a href="https://github.com/ustcwangjian/Robust-Video-Stabilization-based-on-Motion-Decomposition/blob/gh-pages/multiple_plane.mp4">multiple plane.mp4</a>
+<a href="https://github.com/ustcwangjian/Robust-Video-Stabilization-based-on-Motion-Decomposition/raw/gh-pages/multiple_plane.mp4">multiple plane.mp4</a>
 
 <h1 align="center">Reference</h1>
 <div align="justify">[1] L. Zhang, Q.-K. Xu, and H. Huang, “A global approach to fast video stabilization,” in IEEE Transactions on Circuits and Systems for Video Technology, vol. 27, no. 2, 2015, pp. 225–235.</div>
