@@ -6,7 +6,10 @@
 <a href="https://media.githubusercontent.com/media/ustcwangjian/Robust-Video-Stabilization-based-on-Motion-Decomposition/gh-pages/clustering.mp4">clustering.mp4</a>
 
 <h3>Comparsion with previous video stabilization methods.</h3>
-<a href="https://media.githubusercontent.com/media/ustcwangjian/Robust-Video-Stabilization-based-on-Motion-Decomposition/gh-pages/comparison.mp4">comparison.mp4</a>
+<a href="https://media.githubusercontent.com/media/ustcwangjian/Robust-Video-Stabilization-based-on-Motion-Decomposition/gh-pages/methods_comparison.mp4">comparison.mp4</a>
+
+<h3>Comparsion with feedback method.</h3>
+<a href="https://media.githubusercontent.com/media/ustcwangjian/Robust-Video-Stabilization-based-on-Motion-Decomposition/gh-pages/feedback_comparison.mp4">comparison.mp4</a>
 
 <h3>Validation in the multiple plane scenes.</h3>
 <a href="https://github.com/ustcwangjian/Robust-Video-Stabilization-based-on-Motion-Decomposition/blob/gh-pages/multiple_plane.mp4">multiple plane.mp4</a>
